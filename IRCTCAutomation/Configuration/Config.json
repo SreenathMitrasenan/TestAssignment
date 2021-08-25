@@ -1,0 +1,27 @@
+{
+	"url": {
+		"doorwardQAT": "https://develop.doorward.org/auth/login",
+		"doorwardDev": "http://www.thala.doorward.org",
+		"doorwardProd": "http://www.thala.doorwardprod.org",
+		"Other": "https://www.facebook.com/",
+		"irctc": "https://www.irctc.co.in/nget/train-search"
+	},
+	"environment": {
+		"current": "local"
+	},
+	"files": {
+		"configuration": "Config.json"
+	},
+	"browserinfo": {
+		"currentbrowser": "chrome"
+	},
+	"defaultwait": {
+		"wait": "10"
+	},
+	"browserlistinfo": {
+		"chrome": "chrome",
+		"mozilla": "firefox",
+		"ie": "ie"
+	}
+
+}
